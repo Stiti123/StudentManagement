@@ -1,0 +1,5 @@
+ {
+        "stuId": 108,
+        "stuName": "Stiti",
+        "marks": 45.8
+    }
